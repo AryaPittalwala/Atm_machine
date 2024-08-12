@@ -72,6 +72,7 @@ class ATM{
                 default:
                     System.out.println("invalid input");
                     break;
+                    12;
 
             }
         }
